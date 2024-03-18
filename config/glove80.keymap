@@ -266,6 +266,10 @@
     
 };
 
+&sk {
+  release-after-ms = <400>;
+  quick-release;
+};
     /* Automatically generated keymap */
 / {
     keymap {
